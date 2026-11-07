@@ -1,0 +1,6 @@
+.env
+reseach/.env.env
+langagent/
+venv/
+.venv/
+__pycache__/
